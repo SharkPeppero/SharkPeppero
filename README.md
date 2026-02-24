@@ -2,10 +2,6 @@
 
 ### An experienced C++ developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SharkPeppero&label=Profile views&color=0e75b6&style=flat" alt="SharkPeppero" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SharkPeppero" alt="SharkPeppero" /></a> </p>
-
 - 🔭 I'm currently working on **SLAM, including VIO and LIO（Based on IESKF filter and factor graph）**
 
 - 🌱 I'm currently learning **DL And RL**
